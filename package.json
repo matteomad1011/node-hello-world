@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteomad1011/node-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteomad1011/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/matteomad1011/node-hello-world#readme",
+  "dependencies": {
+    "enquoraging": "^1.4.0"
+  }
+}
